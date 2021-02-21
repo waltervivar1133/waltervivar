@@ -1,6 +1,6 @@
 <h2> Hi, I'm Walter Vivar <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGzHyBI-yMU1fhVaD6fdKdYukIESV0zHNOjw&usqp=CAU" width="40"></h2>
 
-<img align='right' src="https://drive.google.com/file/d/1YfqFjcxEshKc4C5-NfFxIA4rT-PoS6lR/view?usp=sharing" width="230">
+<img align='right' src="https://drive.google.com/uc?id=1YfqFjcxEshKc4C5-NfFxIA4rT-PoS6lR" width="230">
 
 <p><em>Web Developer</br>
 </em></p>
@@ -19,7 +19,7 @@ const waltervivar = {
   styles: [
     "BootStrap","TailwindCss", "Material Design"
   ]
-  challenge: "I am doing ngchallenges page, where I am adding Angular documentation"
+  challenge: "I like to do challenges from The FrontEnd Mentor page"
 }
 ```
 ## 📫 Contact Me
